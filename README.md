@@ -1,2 +1,3 @@
 # hellow-world
-hello
+hellow
+print("hellw world")[
